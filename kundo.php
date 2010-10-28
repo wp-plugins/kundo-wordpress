@@ -12,7 +12,7 @@ add_action('admin_init', 'kundo_admin_init');
  
 function kundo_admin_init()
 {
-    wp_register_script('tabs', WP_PLUGIN_URL . '/kundo/js/tabs.js');
+    wp_register_script('tabs', WP_PLUGIN_URL . '/kundo-wordpress/js/tabs.js');
 	wp_enqueue_script('jquery-ui');   
 	wp_enqueue_script('jquery-ui-core');  
 	wp_enqueue_script('jquery-ui-widget');  
@@ -94,7 +94,7 @@ function kundo_dashboard_widget_function() {
 	.displaying {
 	}
 	</style>
-	<center><img src="<?=get_bloginfo('url')?>/wp-content/plugins/kundo/ajax-loader.gif" id="loading" class="displaying"/></center>
+	<center><img src="<?=get_bloginfo('url')?>/wp-content/plugins/kundo-wordpress/ajax-loader.gif" id="loading" class="displaying"/></center>
 	<div id="tabs">
 	   <ul>
 	       <li><a href="admin-ajax.php?action=kundo_get&type=q">Frågor</a></li>
