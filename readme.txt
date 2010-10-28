@@ -13,5 +13,5 @@ Kundo Wordpress plugin list the latest information from Swedish customersupports
 
 1. Upload this directory to your /wp-content/plugins/
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Set your account settings under Setting -> Kundo
+3. Set your account settings under Settings -> Kundo
 4. Done
