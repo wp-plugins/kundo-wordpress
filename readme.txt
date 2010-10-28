@@ -24,4 +24,4 @@ Kundo Wordpress plugin list the latest information from Swedish customersupports
 
 == Screenshots ==
 
-The widget
+1. The widget
