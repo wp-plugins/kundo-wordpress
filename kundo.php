@@ -3,7 +3,7 @@
 Plugin Name: Kundo
 Plugin URI: http://simsons.se/blog/kundo-plugin/
 Description: Kundo plugin for Wordpress
-Version: 0.1
+Version: 0.2
 Author: Simson Creative Solutions
 Author URI: http://simsons.se
 */
