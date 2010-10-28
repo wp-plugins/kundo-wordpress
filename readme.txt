@@ -24,4 +24,4 @@ Kundo Wordpress plugin list the latest information from Swedish customersupports
 
 == Screenshots ==
 
-http://simsons.se/wp-content/uploads/2010/10/kundo-widget.png
+The widget
