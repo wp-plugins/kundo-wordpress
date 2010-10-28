@@ -18,9 +18,9 @@ Kundo Wordpress plugin list the latest information from Swedish customersupports
 
 == Changelog ==
 
-0.1 Initial version of plugin
-
 0.2 Fixed some javascript issues
+
+0.1 Initial version of plugin
 
 == Screenshots ==
 
