@@ -15,3 +15,13 @@ Kundo Wordpress plugin list the latest information from Swedish customersupports
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Set your account settings under Settings -> Kundo
 4. Done
+
+== Changelog ==
+
+0.1 Initial version of plugin
+
+0.2 Fixed some javascript issues
+
+== Screenshots ==
+
+http://simsons.se/wp-content/uploads/2010/10/kundo-widget.png
